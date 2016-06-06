@@ -1,5 +1,5 @@
 # NADDA: No-Alignment Domain Detection Algorithm for protein sequences </br>
-
+## Please refer to http://bitbucket.org/armen.abnousi/nadda
 
 ######This file will guide you through the steps to install and run the NADDA conserved region detection program.
 -----------------------------------------------------------------------------------------------------------
